@@ -13,6 +13,8 @@ This website is designed for two main groups: those searching for workers and th
 - ExpressJS
 - PostgreSQL
 
+<br />
+
 ## Package dependencies
 
 bash
@@ -30,6 +32,7 @@ bash
 		"uuid": "^9.0.1",
 		"xss-clean": "^0.1.4"
 
+<br />
 
 ## Installation
 
@@ -56,11 +59,11 @@ Start the project
 bash
   npm start
 
+<br />
 
 ## Postman
 
 ⚡[API Documentation](https://documenter.getpostman.com/view/7675329/2s9YysDhDY#1329e613-d224-4315-b518-bc7fd184354c)⚡
-
 
 <br />
 
